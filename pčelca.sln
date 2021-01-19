@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pčelca", "pčelca.vcxproj", "{B50B230D-FAA1-4CC0-A3B3-2923F18B676A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B50B230D-FAA1-4CC0-A3B3-2923F18B676A}.Debug|x64.ActiveCfg = Debug|x64
+		{B50B230D-FAA1-4CC0-A3B3-2923F18B676A}.Debug|x64.Build.0 = Debug|x64
+		{B50B230D-FAA1-4CC0-A3B3-2923F18B676A}.Debug|x86.ActiveCfg = Debug|Win32
+		{B50B230D-FAA1-4CC0-A3B3-2923F18B676A}.Debug|x86.Build.0 = Debug|Win32
+		{B50B230D-FAA1-4CC0-A3B3-2923F18B676A}.Release|x64.ActiveCfg = Release|x64
+		{B50B230D-FAA1-4CC0-A3B3-2923F18B676A}.Release|x64.Build.0 = Release|x64
+		{B50B230D-FAA1-4CC0-A3B3-2923F18B676A}.Release|x86.ActiveCfg = Release|Win32
+		{B50B230D-FAA1-4CC0-A3B3-2923F18B676A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40CFC093-5BD3-447B-B199-1A8FA439563A}
+	EndGlobalSection
+EndGlobal
